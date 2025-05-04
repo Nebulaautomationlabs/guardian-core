@@ -52,7 +52,7 @@ GuardianCore is designed with **security**, **moderation**, and **automation** i
    * Clone the GuardianCore repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/nebula-interactive-studios/guardian-core.git
+    git clone https://github.com/Nebulaautomationlabs/guardian-core.git
    ```
 
 2. **Install Dependencies**
